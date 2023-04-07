@@ -1,2 +1,2 @@
 # RS485-SoundLevelMeter
-![DSC_0026](https://user-images.githubusercontent.com/117228370/230679622-b180445f-952b-444e-851a-6f262a6b01af.JPG)
+![DSC_0157](https://user-images.githubusercontent.com/117228370/230679732-be9da2af-40c8-44f6-8c16-d810022ac609.JPG)
